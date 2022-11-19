@@ -16,6 +16,9 @@ Primeiro Ignite Lab gratuito que a Rocketseat disponibiliza, o projeto é uma pl
 
 The Event Platform is intended to provide videos about a particular event, consuming all the information from the GraphCMS.
 
+Site: https://ignite-lab-rocketseat-3t599oac4-martinspereira.vercel.app/event/lesson/abertura-do-evento-ignite-labs
+
+
 <img src="https://repository-images.githubusercontent.com/506041475/7f31611a-fdb1-4790-a5ae-d971738b0192" alt="Home Projeto"/>
 
 
